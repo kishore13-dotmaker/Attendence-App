@@ -52,7 +52,7 @@ const LoginScreen = ({ navigation }) => {
           style={LoginStyles.logo}
           resizeMode="contain"
         />
-        <Text style={LoginStyles.text}>Hotel-1</Text>
+        <Text style={LoginStyles.text}>CHECK-IN</Text>
 
         <FormInput
           labelValue={email}
